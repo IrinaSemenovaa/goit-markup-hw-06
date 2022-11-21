@@ -794,7 +794,7 @@ input:focus + .icon-modal {
   letter-spacing: 0.03em;
 }
 .checkbox-label:focus-within {
-  border: 1px solid var(--accent-color);
+  outline: 1px solid var(--accent-color);
 }
 .checkbox-label a {
   display: block;
